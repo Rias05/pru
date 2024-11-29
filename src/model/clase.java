@@ -8,7 +8,7 @@ package model;
  *
  * @author Noxie
  */
-public class Ejemplorepos {
+public class clase {
     private int numero;
 
     /**
