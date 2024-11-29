@@ -9,6 +9,7 @@ package model;
  * @author Noxie
  */
 public class Ejemplorepos {
+    private int numero;
 
     /**
      * @param args the command line arguments
